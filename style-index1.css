@@ -1,0 +1,165 @@
+.divs{
+		border:1px solid;
+}	
+
+
+#div3{
+		background-image:linear-gradient(to bottom, rgba(235, 245, 251,0), rgba(235, 245, 251, 1));
+		height:800px;
+		width:700px;
+		position:absolute;
+		margin-top:80px;
+		margin-left:60%;
+		border-left:0px;
+		border-right:0px;
+		border-top:0px;
+		border-bottom:0px;
+}	
+
+#img{
+		position:absolute;
+		margin-top:100px;
+		margin-left:50px;
+		height:500px;
+		width:600px;
+		border-left:0px;
+		border-right:0px;
+		border-top:0px;
+		border-bottom:0px;
+	
+}
+#bottom{
+				position:absolute;
+				width:1919px;
+				height:4%;
+				margin-top:789px;
+				margin-left:-8px;
+				background-color:#f3f3f3;
+				padding-bottom:17px;
+				padding-right:1px;
+				border-left:0px;
+				border-right:0px;
+				border-top:0px;
+				border-bottom:0px;
+				
+		
+}	
+
+.fa {
+			position:absolute;
+			margin-top:4px;
+			padding: 16px;
+			font-size: 30px;
+			width: 10px;
+			text-align: center;
+			text-decoration: none;
+			border-radius: 50%;
+}
+
+		.fa:hover {
+			opacity: 0.7;
+	}
+
+		.fa-twitter {
+			  position:absolute;
+			  margin-left:1755px;
+			  background: #3B5998;
+			  color: white;
+}
+		.fa-facebook {
+			  background: #3B5998;
+			  color: white;
+}
+
+		.fa-instagram {
+			position:absolute;
+			margin-left:1845px;
+			background: #E48240;
+			color: white;
+}
+
+
+input [type=text] , select{
+		margin-top:20px;
+		padding:12px;
+		border-color:#f3f3f3;
+		border-radius:2px;
+		font-size:15px;
+	
+}	
+#First[type=text]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:#f3f3f3;
+		border-color:#f3f3f3;
+		width:250px;
+		border-top:0px;
+		border-left:0px;
+		
+}
+#Surname[type=text]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:#f3f3f3;
+		border-color:#eeee;
+		width:250px;
+		border-top:0px;
+		border-left:0px;
+		
+}
+#Contacts[type=text]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:#f3f3f3;
+		border-color:#eeee;
+		width:500px;
+		border-top:0px;
+		border-left:0px;
+		
+}
+#Contacts1[type=text]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:#f3f3f3;
+		border-color:#eeee;
+		width:500px;
+		border-top:0px;
+		border-left:0px;
+		
+}
+
+#Password[type=password]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:#f3f3f3;
+		border-color:#eeee;
+		width:500px;
+		border-top:0px;
+		border-left:0px;
+}
+
+
+
+button{
+		height:50px;
+		width:200px;
+		background-color:#10B812;
+		border-radius:10px;
+		color:white;
+		font-family:sans-sherif;
+		font-size:20px;
+}
+h1{
+		font-family:sans-sherif;
+		font-size:40px;
+		text-align:center;
+}	
+p{
+		text-align:justify;
+		font-size:14px;
+}	

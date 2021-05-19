@@ -1,0 +1,211 @@
+.divs{
+		border:1px solid;
+}	
+
+
+#div3{
+		background-image:linear-gradient(to bottom, rgba(235, 245, 251,0), rgba(235, 245, 251, 1));
+		height:880px;
+		width:683px;
+		position:absolute;
+		margin-top:80px;
+		margin-left:64%;
+		padding-right:-2px;
+		border-left:0px;
+		border-right:0px;
+		border-top:0px;
+		border-bottom:0px;
+}	
+
+body{
+		background-image: url("timberland-shoes1.jpg");
+		background-repeat:no-repeat;
+		background-size:cover;
+}
+
+#bottom{
+				background-image:linear-gradient(to bottom, rgba(235, 245, 251,0), rgba(235, 245, 251, 1));
+				position:absolute;
+				width:1919px;
+				height:4%;
+				margin-top:902px;
+				margin-left:-8px;
+				padding-bottom:19px;
+				padding-right:1px;
+				border-left:0px;
+				border-right:0px;
+				border-top:0px;
+				border-bottom:0px;
+				
+		
+}	
+
+	table tr{
+				position:absolute;
+				margin-left:30px;
+				margin-top:10px;
+
+		}
+
+		table tr td a{
+				text-decoration:none;
+				font-family:sans-sherif;
+				font-size:19px;
+				color:white;
+		}
+
+.fa {
+			position:absolute;
+			margin-top:4px;
+			padding: 16px;
+			font-size: 30px;
+			width: 10px;
+			text-align: center;
+			text-decoration: none;
+			border-radius: 50%;
+}
+
+		.fa:hover {
+			opacity: 0.7;
+	}
+
+		.fa-twitter {
+			  position:absolute;
+			  margin-left:93%;
+			  background: #3B5998;
+			  color: white;
+}
+		.fa-facebook {
+			  background: #3B5998;
+			  color: white;
+			  position:absolute;
+			  margin-left:90%;
+}
+
+		.fa-instagram {
+			position:absolute;
+			margin-left:96%;
+			background: #E48240;
+			color: white;
+}
+
+
+input [type=text] , select{
+		margin-top:10px;
+		padding:10px;
+		border-color:#ccc;
+		border-radius:5px;
+		border-top:0px;
+		border-left:0px;
+		font-size:12px;
+		font-family:Verdana;
+		
+	
+}	
+
+	
+
+
+#First[type=text]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:white;
+		border-color:#ccc;
+		width:250px;
+		border-top:0px;
+		border-left:0px;
+		
+}
+#Surname[type=text]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:white;
+		border-color:#ccc;
+		width:250px;
+		border-top:0px;
+		border-left:0px;
+		
+}
+#Contacts[type=text]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:white;
+		border-color:#ccc;
+		width:500px;
+		border-top:0px;
+		border-left:0px;
+		
+		
+}
+#Contacts1[type=text]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:white;
+		border-color:#ccc;
+		width:500px;
+		border-top:0px;
+		border-left:0px;
+		
+}
+
+#Password[type=password]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:white;
+		border-color:#ccc;
+		width:500px;
+		border-top:0px;
+		border-left:0px;
+}
+
+
+
+button{
+		height:50px;
+		width:200px;
+		background-color:#f3f3f3;
+		border-radius:7px;
+		font-family:sans-sherif;
+		font-size:20px;
+		border-top:0px;
+		border-left:0px;
+		
+}
+
+
+.button2{
+		height:25px;
+		width:100px;
+		font-size:17px;
+		font-family:sans-sherif;
+		border-top:0px;
+		border-left:0px;
+		background-color:#f3f3f3;
+		
+}
+
+.button2:hover{
+		opacity:0.8;
+		margin:0px;
+		
+}
+
+.button2, a {
+			text-decoration:none;
+			color:black;
+			display:block;
+}
+h1{
+		font-family:sans-sherif;
+		font-size:40px;
+		text-align:center;
+}	
+p{
+		text-align:justify;
+		font-size:14px;
+}	

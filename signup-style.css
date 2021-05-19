@@ -1,0 +1,137 @@
+.divs{
+		border:1px solid;
+}	
+
+
+#div3{
+		background-image:linear-gradient( to top, rgba(235, 245, 251,0), rgba(235, 245, 251, 1));
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		height:800px;
+		width:700px;
+		position:absolute;
+		border-radius:5px;
+		margin-top:80px;
+		margin-left:60%;
+		border-left:0px;
+		border-right:0px;
+		border-top:0px;
+		border-bottom:0px;
+}	
+
+#img{
+		position:absolute;
+		margin-top:200px;
+		margin-left:80px;
+		
+	
+}
+	
+input [type=text] , select{
+		margin-top:20px;
+		padding:12px;
+		border-color:#f3f3f3;
+		border-radius:2px;
+		font-size:15px;
+	
+}	
+#First[type=text]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:#fff;
+		border-color:#f3f3f3;
+		width:250px;
+		border-top:0px;
+		border-left:0px;
+		
+}
+#Surname[type=text]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:#fff;
+		border-color:#eeee;
+		width:250px;
+		border-top:0px;
+		border-left:0px;
+		
+}
+#Contacts[type=text]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:#fff;
+		border-color:#eeee;
+		width:500px;
+		border-top:0px;
+		border-left:0px;
+		
+}
+#Contacts1[type=text]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:#fff;
+		border-color:#eeee;
+		width:500px;
+		border-top:0px;
+		border-left:0px;
+		
+}
+
+#Password[type=password]{
+		margin-top:20px;
+		padding:10px 20px 10px 10px;
+		border-radius:5px;
+		background-color:#fff;
+		border-color:#eeee;
+		width:500px;
+		border-top:0px;
+		border-left:0px;
+}
+
+
+
+#btn{
+		height:50px;
+		width:200px;
+		background-color:#000;
+		border-radius:10px;
+		color:white;
+		font-family:sans-sherif;
+		font-size:20px;
+}
+
+.sel{
+	border-radius:5px;
+	padding:5px;
+	
+	
+}
+
+.button2{
+		height:30px;
+		width:100px;
+		background-color:#DADBDC;
+		border-radius:10px;
+		color:white;
+		
+}
+
+.button2 a{
+		text-decoration:none;
+		font-family:sans-sherif;
+		font-size:20px;
+		color:#000;
+}
+
+
+h1{
+		font-family:sans-sherif;
+		font-size:40px;
+		text-align:center;
+}	
+p{
+		text-align:justify;
+		font-size:14px;
+}	

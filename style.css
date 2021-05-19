@@ -1,0 +1,417 @@
+.divs{
+		margin:0px;
+		padding:0px;
+}
+							
+		#top{
+				background-color:black;
+				position:relative;
+				width:100%;
+				height:72px;
+				border-left:0px;
+				border-right:0px;
+				border-top:0px;
+				border-bottom:0px;
+				margin-left:8px;
+				margin-top:-8px;
+				text-align:right;
+				font-size:18px;
+				
+									
+		}
+		span{
+			position:absolute;
+			
+			
+			
+		}	
+		
+		span a {
+				text-decoration:none;
+				color:white;
+		}
+		#login{
+				position:absolute;
+				float:right;
+				margin-top:-50px;
+				margin-left:1750px;
+				color:white;
+				font-size:17px;
+				font-family:Arial;
+				border-left:0px;
+				border-right:0px;
+				border-top:0px;
+				border-bottom:0px;
+		
+		}	
+		
+		#login-icon{
+				margin-left:-85px;
+				
+		}
+		
+		#cart{
+				position:absolute;
+				color:white;
+				margin-left:1850px;
+				margin-top:-49px;
+				
+		}
+		#crt{
+				text-decoration:none;
+				color:#fff;
+				font-family:Arial;
+				font-size:17px;
+				
+		}
+		
+		#cart-icon{
+				margin-left:-60px;
+				
+		}
+		
+		
+		#bottom{
+				background-color:#000;
+				position:absolute;
+				width:1899px;
+				height:38px;
+				margin-top:122px;
+				margin-left:-8px;
+				padding-bottom:29px;
+				padding-right:21px;
+				border-left:0px;
+				border-right:0px;
+				border-top:0px;
+				border-bottom:0px;
+				
+		
+}	
+		#menu{
+				background-image:black;
+				position:absolute;
+				margin-left:-13px;
+				margin-top:-72px;
+				height:55px;
+				width:1px;
+				border-left:0px;
+				border-right:0px;
+				border-top:0px;
+				border-bottom:0px;
+									
+		}
+		
+	body{
+			background-color:#ffff;;
+	}
+		
+		
+		
+		.main-banner{
+				border-radius:2px;
+				margin-left:370px;
+				width:1200px;
+				height:600px;
+				overflow:hidden;
+				position:relative;
+		}
+		
+		.main-banner .imgban {
+				height:100%;
+				width:100%;
+				position:absolute;
+				top:0px;
+				transition: all ease-in-out 500ms;
+				-webkit-transition: all ease-in-out 500ms;
+				-moz-transition: all ease-in-out 500ms;
+				-o-transition: all ease-in-out 500ms;
+				
+				
+				
+			
+		}
+		
+		.main-banner #imgban3 {
+				background-image: url("images/polokids.png");
+				background-size:cover;
+				background-position:center;
+				background-repeat:no-repeat;
+			
+		}
+		
+		.main-banner #imgban2 {
+				background-image: url("images/timberlandw.jpg");
+				background-size:cover;
+				background-position:center;
+				background-repeat:no-repeat;
+			
+		}
+		
+		.main-banner #imgban1 {
+				background-image: url("images/timberm.jpg");
+				background-size:cover;
+				background-position:center;
+				background-repeat:no-repeat;
+			
+		}
+		
+		
+		
+		.main-banner .imgban-box h2 {
+				font-family:sans-serif;
+				font-style:italic;
+				font-size:60px;
+				color:#fff;
+		}
+		
+		.main-banner .imgban-box p {
+				font-family: Arial;
+				font-size:25px;
+				color:#fff;
+		}
+		
+		.main-banner #imgban3 .imgban-box{
+				padding-top:220px;
+				padding-left:100px;
+			
+		}
+		.main-banner #imgban3 .imgban-box h2{
+				margin-top:-200px;
+				margin-left:40px;
+				
+			
+		}
+		
+		.main-banner #imgban3 .imgban-box p{
+				margin-top:-30px;
+				padding-left:200px;
+				font-size:30px;
+			
+			
+		}
+		
+		.main-banner #imgban2 .imgban-box{
+				padding-top:220px;
+				padding-right:100px;
+				
+		}
+		.main-banner #imgban2 .imgban-box h2{
+				margin-top:-215px;
+				padding-left:40px;
+				
+			
+		}
+		
+		.main-banner #imgban2 .imgban-box p{
+				margin-top:-30px;
+				margin-left:60px;
+			
+		}
+		
+			
+		
+		.main-banner #imgban1 .imgban-box h2{
+				margin-top:10px;
+				padding-left:100px;
+				
+			
+		}
+		
+		.main-banner #imgban1 .imgban-box p{
+				padding-top:390px;
+				padding-left:200px;
+			
+		}
+	.shopnow{
+			height:60px;
+			width:160px;
+			text-align:center;
+			background-color:white;
+			font-size:25px;
+			font-family:Arial;
+			border-color:black;
+			position:absolute;
+			margin-left:890px;
+	}		
+
+	.shopnow a {
+		color:black;
+		display:block;
+		padding:12px;
+		text-decoration:none;
+			
+	
+	}
+	
+				
+						
+		
+		
+		#search{
+				position:absolute;
+				margin-left:1690px;
+				margin-top:10px;
+				border-left:0px;
+				border-right:0px;
+				border-top:0px;
+				border-bottom:0px;
+				
+				
+			
+		}
+		
+		#search-icon{
+				margin-left:-30px;
+		}
+		input[type=text], search1{
+				font-family:sans-serif;
+				font-size:15px;
+				border-radius:5px;
+				border-color:#ccccc;
+				
+				
+			
+		}	
+		
+		table tr{
+				position:absolute;
+				margin-left:30px;
+				margin-top:10px;
+
+		}
+
+		table tr td a{
+				text-decoration:none;
+				font-family:sans-sherif;
+				font-size:19px;
+				color:#fff;
+		}
+		
+		
+		.fa {
+			position:absolute;
+			margin-top:4px;
+			padding: 16px;
+			font-size: 30px;
+			width: 10px;
+			text-align: center;
+			text-decoration: none;
+			border-radius: 50%;
+}
+
+		.fa:hover {
+			opacity: 0.7;
+	}
+	
+		#follow{
+			font-family:sans-serif;
+			margin-top:27px;
+			margin-left:1698px;
+			color:#fff;
+			font-size:15px;
+		}
+	
+		.fa-pinterest {
+			margin-top:12px;
+			position:absolute;
+			margin-left:1764px;
+			color:#fff;
+			  
+}
+	
+		.fa-facebook {
+			margin-top:12px;
+			position:absolute;
+			margin-left:1792px;
+			color:#fff;
+			  
+}
+
+		.fa-twitter {
+			  margin-top:12px;
+			  position:absolute;
+			  margin-left:1820px;
+			  color:#fff;
+}
+		
+
+		.fa-instagram {
+			margin-top:12px;
+			position:absolute;
+			margin-left:1850px;
+			color:#fff;
+}
+
+		
+		
+		
+		nav{
+				background-image:linear-gradient(to top, rgba(235, 245, 251,0), rgba(235, 245, 251, 1));
+				position:absolute;
+				margin-left:-8px;
+				margin-top:px;
+				width:1906px;
+				height:50px;
+				color:white;
+				padding-top:1px;
+				display:block;
+				padding-right:14px;
+				
+				
+				
+		}	
+		
+		nav ul{
+			
+				margin-left:15%;
+				padding:0px;
+				margin-top:-1px;
+				
+				
+		}	
+		
+		
+		nav ul li{
+				position:relative;
+				float:left;
+				list-style:none;
+			
+				
+		}	
+		
+		nav ul li a{
+				
+					display:block;
+					font-family:Times New Roman;
+					color:black;
+					font-size:22px;
+					padding:9px 14px;
+					text-decoration:none;
+		}	
+		
+		nav input{
+					position:absolute;
+					margin-left:725px;
+					margin-top:-1px;
+					font-size:17px;
+		}
+		
+		nav a:hover{
+					background-color:white;
+					margin:0px;
+					border-radius:5px;
+		}	
+
+		#locator-icon{
+				margin-left:100px;
+				color:white;
+			
+		}
+	
+		
+
+		
+
+
+
+

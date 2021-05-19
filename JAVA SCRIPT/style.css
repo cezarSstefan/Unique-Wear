@@ -1,0 +1,76 @@
+.divs{
+		height:50px;
+		float:left;
+}	
+
+#div1{
+		width:25%;
+		background-color:red;
+		
+		
+}		
+
+#div2{
+		width:50%;
+		background-color:blue;
+	
+		
+}	
+
+#div3{
+		width:25%;
+		background-color:yellow;
+		
+}	
+
+li{
+		list-style-type:none;
+		margin:0px;
+		padding:0px;
+		
+		
+}	
+button{
+		border-radius:5px;
+		background-color:#f3f3f3;
+}	
+
+a{
+		text-decoration:none;
+		float:left;
+		display:block;
+		width:20%;
+		background-color:#f3f3f3;
+		text-align:center;
+		border-right:1px solid gray;
+}	
+
+@media screen and (max-width:500px){
+		
+		#div1{
+				width:100%;
+		}	
+		
+		#div2{
+				width:100%;
+		}	
+		
+		#div3{
+				width:100%;
+		}	
+		a{
+				float:none;
+				border-right:none;
+				border-bottom:1px solid red;
+		}	
+}
+
+#totals{
+		float:right;
+		border:1px solid;
+		margin-top:20%;
+}	
+#button{
+		width:20ox;
+		height:20px;
+}	

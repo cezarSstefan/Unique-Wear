@@ -1,0 +1,282 @@
+.divs{
+		
+	
+}
+
+body{
+		background-image:linear-gradient(to bottom, rgba(235, 200, 200,0), rgba(235, 245, 251, 1));
+}
+
+#top{
+				background-color:black;
+				position:relative;
+				width:100%;
+				height:69px;
+				border-left:0px;
+				border-right:0px;
+				border-top:0px;
+				border-bottom:0px;
+				margin-left:8px;
+				margin-top:-8px;
+				text-align:right;
+				font-size:18px;
+				background-position:cover;
+									
+		}
+		
+		#login{
+				position:absolute;
+				float:right;
+				margin-top:-50px;
+				margin-left:1750px;
+				color:white;
+				font-size:17px;
+				font-family:Arial;
+				border-left:0px;
+				border-right:0px;
+				border-top:0px;
+				border-bottom:0px;
+		
+		}	
+		
+		span{
+			position:absolute;
+			
+			
+			
+		}	
+		
+		span a {
+				text-decoration:none;
+				color:white;
+		}
+		
+		#login-icon{
+				margin-left:-85px;
+				
+		}
+		
+		#cart{
+				position:absolute;
+				color:white;
+				margin-left:1850px;
+				margin-top:-49px;
+				
+		}
+		#crt{
+				text-decoration:none;
+				color:#fff;
+				font-family:Arial;
+				font-size:17px;
+				
+		}
+		
+		#cart-icon{
+				margin-left:-60px;
+				
+		}
+
+		#menu{
+				background-image:black;
+				position:absolute;
+				margin-left:-13px;
+				margin-top:-69px;
+				height:55px;
+				width:1px;
+				border-left:0px;
+				border-right:0px;
+				border-top:0px;
+				border-bottom:0px;
+									
+		}
+		
+		nav{
+				background-image:linear-gradient(to top, rgba(235, 245, 251,0), rgba(235, 245, 251, 1));
+				position:absolute;
+				margin-left:-8px;
+				margin-top:px;
+				width:1906px;
+				height:50px;
+				color:white;
+				padding-top:1px;
+				display:block;
+				padding-right:14px;
+				
+				
+		}	
+		
+		nav ul{
+			
+				margin-left:374px;
+				padding:0px;
+				margin-top:-1px;
+				
+				
+		}	
+		
+		
+		nav ul li{
+				position:relative;
+				float:left;
+				list-style:none;
+			
+				
+		}	
+		
+		nav ul li a{
+				
+					display:block;
+					font-family:Times New Roman;
+					color:black;
+					font-size:22px;
+					padding:9px 14px;
+					text-decoration:none;
+		}	
+		
+		nav input{
+					position:absolute;
+					margin-left:725px;
+					margin-top:-1px;
+					font-size:17px;
+		}
+		
+		nav a:hover{
+					background-color:white;
+					margin:0px;
+					border-radius:5px;
+		}		
+		
+		#search{
+				position:absolute;
+				margin-left:1690px;
+				margin-top:10px;
+				border-left:0px;
+				border-right:0px;
+				border-top:0px;
+				border-bottom:0px;
+				
+				
+			
+		}
+		
+		#search-icon{
+				margin-left:-30px;
+		}
+		
+		input[type=text], search1{
+				font-family:sans-serif;
+				font-size:15px;
+				border-radius:5px;
+				border-color:#ccccc;
+		}	
+		
+		#adress{
+		background-color:white;
+		font-family:Verdana;
+		margin-top:100px;
+		height:170px;
+		width:500px;
+		border:1px solid black;
+		border-radius:2px;
+		border-color:#cccc;
+	
+}	
+
+		#maps{
+	
+		height:500px;
+		width:1000px;
+		border:1px solid black;
+		border-radius:2px;
+		border-left:0px;
+		border-right:0px;
+		border-top:0px;
+		border-bottom:0px;
+		margin-left:-8px;
+}	
+
+		#bottom{
+				background-color:black;
+				position:absolute;
+				width:1899px;
+				height:40px;
+				margin-top:41px;
+				margin-left:-8px;
+				padding-bottom:29px;
+				padding-right:21px;
+				border-left:0px;
+				border-right:0px;
+				border-top:0px;
+				border-bottom:0px;
+				
+		
+}	
+
+table tr{
+				position:absolute;
+				margin-left:30px;
+				margin-top:10px;
+
+		}
+
+		table tr td a{
+				text-decoration:none;
+				font-family:sans-sherif;
+				font-size:19px;
+				color:#fff;
+		}
+		
+		
+		.fa {
+			position:absolute;
+			margin-top:4px;
+			padding: 16px;
+			font-size: 30px;
+			width: 10px;
+			text-align: center;
+			text-decoration: none;
+			border-radius: 50%;
+}
+
+		.fa:hover {
+			opacity: 0.7;
+	}
+	
+		#follow{
+			font-family:sans-serif;
+			margin-top:27px;
+			margin-left:1698px;
+			color:#fff;
+			font-size:15px;
+		}
+	
+		.fa-pinterest {
+			margin-top:12px;
+			position:absolute;
+			margin-left:1764px;
+			color:#fff;
+			  
+}
+	
+		.fa-facebook {
+			margin-top:12px;
+			position:absolute;
+			margin-left:1792px;
+			color:#fff;
+			  
+}
+
+		.fa-twitter {
+			  margin-top:12px;
+			  position:absolute;
+			  margin-left:1820px;
+			  color:#fff;
+}
+		
+
+		.fa-instagram {
+			margin-top:12px;
+			position:absolute;
+			margin-left:1850px;
+			color:#fff;
+}
